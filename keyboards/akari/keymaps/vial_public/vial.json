@@ -5,14 +5,54 @@
   
   "customKeycodes": [
     {
-      "name": "Super Alt Tab FWD",
-      "title": "Alt Tab Forwards in Windows",
-      "shortName": "ATABF"
+      "name": "Rewind",
+      "title": "Ctrl+A+Backspace",
+      "shortName": "KC_REWIND"
     },
   {
-      "name": "Super Alt Tab REV",
-      "title": "Alt Tab Reverse in Windows",
-      "shortName": "ATABR"
+      "name": "Latex delimit",
+      "title": "Delimit LaTeX using two $ signs",
+      "shortName": "KC_LATEX_DELIMIT"
+    },
+    {
+      "name": "Latex gather",
+      "title": "Delimit LaTeX using fi $ signs",
+      "shortName": "KC_LATEX_GATHER"
+    },
+    {
+      "name": "Latex fraction",
+      "title": "Type LaTeX fraction",
+      "shortName": "KC_LATEX_FRACTION"
+    },
+    {
+      "name": "Latex text",
+      "title": "Type LaTeX text",
+      "shortName": "KC_LATEX_TEXT"
+    },
+    {
+      "name": "Latex underbracket",
+      "title": "Type LaTeX underbracket",
+      "shortName": "KC_LATEX_UNDERBRACKET"
+    },
+    {
+      "name": "Movement",
+      "title": "Hold to enable typing cursor movement",
+      "shortName": "KC_MOVEMENT"
+    },
+    {
+      "name": "Testing",
+      "title": "Toggle testing mode",
+      "shortName": "KC_TESTING"
+    },
+    {
+      "name": "Leader key",
+      "title": "Send leader key",
+      "shortName": "KC_LEADER"
+    },
+    {
+      "name": "Capsword",
+      "title": "Enable Caps word",
+      "shortName": "KC_CAPSWORD"
     }
   ],
 

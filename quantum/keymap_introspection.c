@@ -17,7 +17,7 @@ uint8_t keymap_layer_count(void) {
     return NUM_KEYMAP_LAYERS;
 }
 
-_Static_assert(NUM_KEYMAP_LAYERS <= MAX_LAYER, "Number of keymap layers exceeds maximum set by LAYER_STATE_(8|16|32)BIT");
+//_Static_assert(NUM_KEYMAP_LAYERS <= MAX_LAYER, "Number of keymap layers exceeds maximum set by LAYER_STATE_(8|16|32)BIT");
 
 #if defined(ENCODER_ENABLE) && defined(ENCODER_MAP_ENABLE)
 

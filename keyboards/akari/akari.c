@@ -26,3 +26,17 @@ led_config_t g_led_config = { {
   4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4
 } };
 #endif
+
+enum keyboard_layers {
+    _GROUND,
+    _ONE,
+    _TWO,
+    _THREE,
+    _FOUR,
+    _FIVE,
+    _SIX,
+    _SEVEN,
+    _EIGHT
+};
+
+
